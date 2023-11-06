@@ -1,5 +1,3 @@
-# Automated-SOW
-
 # Welcome to Automated-SOW
 
 ## Description
