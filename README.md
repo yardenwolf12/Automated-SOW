@@ -1,5 +1,4 @@
 # Automated-SOW
-Automated SOW App
 
 # Welcome to Automated-SOW
 
